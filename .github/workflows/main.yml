@@ -29,6 +29,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: where
+        run: pwd
+        
+      - name: what
+        run: ls -al
+        
       - name: Prep packages
         run: dotnet nuget add source --username muzzai --password ${{ secrets.GITHUB_TOKEN }} --store-password-in-clear-text --name github "https://nuget.pkg.github.com/muzzai/index.json"
 
