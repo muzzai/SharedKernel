@@ -28,12 +28,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-
-      - name: where
-        run: pwd
+      
+      - name: restore
+        run: dotnet restore
         
-      - name: what
-        run: ls -al
       - name: Pack
         run: dotnet pack Template.SharedKernel.csproj -c Release
         
