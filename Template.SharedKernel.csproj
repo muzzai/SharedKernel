@@ -7,8 +7,20 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Ardalis.Specification"/>
-        <PackageReference Include="MediatR"/>
+        <PackageVersion Include="Ardalis.Specification" Version="6.1.0" />
+      <PackageVersion Include="MediatR" Version="12.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Ardalis.Specification">
+        <HintPath>..\..\..\..\..\.nuget\packages\ardalis.specification\6.1.0\lib\netstandard2.0\Ardalis.Specification.dll</HintPath>
+      </Reference>
+      <Reference Include="MediatR">
+        <HintPath>..\..\..\..\..\.nuget\packages\mediatr\12.0.1\lib\net6.0\MediatR.dll</HintPath>
+      </Reference>
+      <Reference Include="MediatR.Contracts">
+        <HintPath>..\..\..\..\..\.nuget\packages\mediatr.contracts\2.0.1\lib\netstandard2.0\MediatR.Contracts.dll</HintPath>
+      </Reference>
     </ItemGroup>
 
 </Project>
