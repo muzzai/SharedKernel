@@ -28,10 +28,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      
-      - name: restore
-        run: dotnet restore
-        
+            
       - name: Pack
         run: dotnet pack Template.SharedKernel.csproj -c Release
         

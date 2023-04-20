@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "t1drGCvCYBiD83RJ0PAQsAzSH7ZnqzcZIlzX4C6xT7HbmQbUESNaP2NOaJKVv1KME46rIO7F6IInxB7/XvHSqQ==",
+  "dgSpecHash": "HIHqoCGOBNrcNGGxum3+LRtiH9E/EU3RFj6Va2JzeV7ZjCshurb4fOJ7V0x/vT89JnFCFs5ylPFKjN2aw5yisA==",
   "success": true,
-  "projectFilePath": "/home/aleksandrshatalov/RiderProjects/Template/Template/src/Template.SharedKernel/Template.SharedKernel.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/aleksandrshatalov/RiderProjects/SharedKernel/Template.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "/home/aleksandrshatalov/.nuget/packages/ardalis.specification/6.1.0/ardalis.specification.6.1.0.nupkg.sha512",
+    "/home/aleksandrshatalov/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/home/aleksandrshatalov/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/aleksandrshatalov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
