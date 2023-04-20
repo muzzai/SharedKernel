@@ -147,9 +147,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aleksandrshatalov/RiderProjects/SharedKernel/Template.SharedKernel.csproj",
-      "projectName": "Template.SharedKernel",
-      "projectPath": "/home/aleksandrshatalov/RiderProjects/SharedKernel/Template.SharedKernel.csproj",
+      "projectUniqueName": "/home/aleksandrshatalov/RiderProjects/SharedKernel/SharedKernel.csproj",
+      "projectName": "SharedKernel",
+      "projectPath": "/home/aleksandrshatalov/RiderProjects/SharedKernel/SharedKernel.csproj",
       "packagesPath": "/home/aleksandrshatalov/.nuget/packages/",
       "outputPath": "/home/aleksandrshatalov/RiderProjects/SharedKernel/obj/",
       "projectStyle": "PackageReference",
@@ -161,7 +161,7 @@
       ],
       "sources": {
         "https://nuget.org/api/v2": {},
-        "https://nuget.pkg.github.com/muzzai/index.json/": {}
+        "https://nuget.pkg.github.com/muzzai/index.json": {}
       },
       "frameworks": {
         "net7.0": {

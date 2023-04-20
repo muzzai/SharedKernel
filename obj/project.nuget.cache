@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f5G7tw7CUpGBN/eImeE3ZiXS8gUR2xA3M6EhnvrZl4QivJWtA7jvsks9xO7HjeJjTo/vsziLUd0eeESC5ZoqAw==",
+  "dgSpecHash": "z1kZfchwiQw2z5DDWOQJGTLJkTtrvv2qaHkXso0e0vJCh3gqd2gFDhY0nWxF7TmO32tSEJqvY2jfTfYlSw3FwQ==",
   "success": true,
-  "projectFilePath": "/home/aleksandrshatalov/RiderProjects/SharedKernel/Template.SharedKernel.csproj",
+  "projectFilePath": "/home/aleksandrshatalov/RiderProjects/SharedKernel/SharedKernel.csproj",
   "expectedPackageFiles": [
     "/home/aleksandrshatalov/.nuget/packages/ardalis.specification/6.1.0/ardalis.specification.6.1.0.nupkg.sha512",
     "/home/aleksandrshatalov/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
