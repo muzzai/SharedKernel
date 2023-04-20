@@ -4,6 +4,7 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <TargetFramework>net7.0</TargetFramework>
+        <Title>SharedKernel</Title>
     </PropertyGroup>
 
     <ItemGroup>
