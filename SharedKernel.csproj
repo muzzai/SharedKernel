@@ -5,7 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <TargetFramework>net7.0</TargetFramework>
         <Title>SharedKernel</Title>
-        <RootNamespace>Template.SharedKernel</RootNamespace>
+        <RootNamespace>SharedKernel</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
