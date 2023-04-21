@@ -6,7 +6,7 @@
         <TargetFramework>net7.0</TargetFramework>
         <Title>SharedKernel</Title>
         <RootNamespace>SharedKernel</RootNamespace>
-        <Version>1.0.1</Version>
+        <Version>1.0.2</Version>
     </PropertyGroup>
 
     <ItemGroup>

@@ -1,4 +1,4 @@
-﻿namespace Template.SharedKernel.Interfaces;
+﻿namespace SharedKernel.Interfaces;
 
 public interface IDomainEventDispatcher
 {

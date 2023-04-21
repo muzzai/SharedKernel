@@ -1,7 +1,7 @@
-﻿using Template.SharedKernel.Interfaces;
-using MediatR;
+﻿using MediatR;
+using SharedKernel.Interfaces;
 
-namespace Template.SharedKernel;
+namespace SharedKernel;
 
 public class DomainEventDispatcher : IDomainEventDispatcher
 {

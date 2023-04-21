@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
+using SharedKernel;
 
-namespace Template.SharedKernel;
+namespace SharedKernel;
 
 // This can be modified to EntityBase<TId> to support multiple key types (e.g. Guid)
 public abstract class EntityBase

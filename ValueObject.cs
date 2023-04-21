@@ -1,4 +1,4 @@
-﻿namespace Template.SharedKernel;
+﻿namespace SharedKernel;
 
 /// <summary>
 ///  See: https://enterprisecraftsmanship.com/posts/value-object-better-implementation/
