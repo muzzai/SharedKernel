@@ -1,5 +1,6 @@
-﻿using MediatR;
-using SharedKernel.Interfaces;
+﻿using SharedKernel.Interfaces;
+using MassTransit.Mediator;
+
 
 namespace SharedKernel;
 
